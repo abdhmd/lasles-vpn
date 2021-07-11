@@ -1,0 +1,28 @@
+Typography : 
+
+a 16px 
+
+btn  16px 500 
+
+h1 50px 500 700 lh 70px
+
+h2 35px 500 lh 50px
+
+h3 25px 400 500 lh 30px
+
+h4 18px 500 lh 30px
+
+p main 16px 400 lh 30px
+
+p small 14PX 400 LH 30PX
+
+Colors :
+
+primary  #F53838;
+
+secondary : #2FAB73;
+
+gradient : #FBFBFB to #FFFFFF
+
+
+
